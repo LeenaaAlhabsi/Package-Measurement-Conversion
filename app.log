@@ -60,3 +60,115 @@
 2025-04-22 10:37:45,713 - INFO - Sequence and processed result saved to SQLite history.
 2025-04-22 10:37:45,714 - INFO - Sequence processed and secure history updated.
 2025-04-22 11:29:33,800 - INFO - Secure history saved to file.
+2025-04-22 15:02:33,734 - INFO - Logger initialized: Logging to console and app.log
+2025-04-22 15:02:33,736 - INFO - SQLite history table ensured in history.db
+2025-04-22 15:02:33,736 - INFO - SequenceService initialized.
+2025-04-22 15:02:33,736 - INFO - SequenceController initialized.
+2025-04-22 15:02:33,737 - INFO - RSA key pair for secure history already exists.
+2025-04-22 15:02:33,785 - INFO - Secure history loaded from file.
+2025-04-22 15:02:33,785 - INFO - Starting FastAPI server on port 8080
+2025-04-22 15:03:17,955 - INFO - Processing input: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-22 15:03:17,956 - INFO - Creating sequence from input: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-22 15:03:17,956 - INFO - Processing sequence: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-22 15:03:17,956 - INFO - Starting conversion for input string: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-22 15:03:17,956 - INFO - Chain segment processed. Derived count: 53
+2025-04-22 15:03:17,956 - INFO - Count-based segment processed with sum: 26
+2025-04-22 15:03:17,956 - INFO - Processing direct count segment. Count: 1
+2025-04-22 15:03:17,956 - INFO - Direct count segment processed with sum: 0
+2025-04-22 15:03:17,956 - INFO - Conversion result: [26, 0]
+2025-04-22 15:03:17,965 - INFO - Sequence and processed result saved to SQLite history.
+2025-04-22 15:03:17,966 - INFO - Sequence processed and secure history updated.
+2025-04-22 15:08:04,515 - INFO - Secure history saved to file.
+2025-04-22 15:19:55,820 - INFO - Logger initialized: Logging to console and app.log
+2025-04-22 15:19:55,821 - INFO - SQLite history table ensured in history.db
+2025-04-22 15:19:55,821 - INFO - SequenceService initialized.
+2025-04-22 15:19:55,821 - INFO - SequenceController initialized.
+2025-04-22 15:19:55,823 - INFO - RSA key pair for secure history already exists.
+2025-04-22 15:19:55,865 - INFO - Secure history loaded from file.
+2025-04-22 15:19:55,865 - INFO - Starting FastAPI server on port 8080
+2025-04-22 15:21:12,087 - INFO - Processing input: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-22 15:21:12,088 - INFO - Creating sequence from input: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-22 15:21:12,088 - INFO - Processing sequence: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-22 15:21:12,088 - INFO - Starting conversion for input string: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-22 15:21:12,088 - INFO - Chain segment processed. Derived count: 53
+2025-04-22 15:21:12,089 - INFO - Count-based segment processed with sum: 26
+2025-04-22 15:21:12,089 - INFO - Conversion result: [26]
+2025-04-22 15:21:12,101 - INFO - Sequence and processed result saved to SQLite history.
+2025-04-22 15:21:12,101 - INFO - Sequence processed and secure history updated.
+2025-04-22 15:22:50,125 - INFO - Secure history saved to file.
+2025-04-22 15:24:43,634 - INFO - Logger initialized: Logging to console and app.log
+2025-04-22 15:24:43,636 - INFO - SQLite history table ensured in history.db
+2025-04-22 15:24:43,636 - INFO - SequenceService initialized.
+2025-04-22 15:24:43,636 - INFO - SequenceController initialized.
+2025-04-22 15:24:43,638 - INFO - RSA key pair for secure history already exists.
+2025-04-22 15:24:43,682 - INFO - Secure history loaded from file.
+2025-04-22 15:24:43,682 - INFO - Starting FastAPI server on port 8080
+2025-04-22 15:24:47,592 - INFO - Processing input: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-22 15:24:47,592 - INFO - Creating sequence from input: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-22 15:24:47,592 - INFO - Processing sequence: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-22 15:24:47,592 - INFO - Starting conversion for input string: zza_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_a_
+2025-04-22 15:24:47,593 - INFO - Chain segment processed. Derived count: 53
+2025-04-22 15:24:47,593 - INFO - Count-based segment processed with sum: 26
+2025-04-22 15:24:47,593 - INFO - Conversion result: [26]
+2025-04-22 15:24:47,605 - INFO - Encrypted sequence and processed result saved to SQLite history.
+2025-04-22 15:24:47,605 - INFO - Sequence processed and secure history updated.
+2025-04-22 15:27:14,346 - INFO - Secure history saved to file.
+2025-04-22 15:34:25,907 - INFO - Logger initialized: Logging to console and app.log
+2025-04-22 15:34:25,908 - INFO - SQLite history table ensured in history.db
+2025-04-22 15:34:25,908 - INFO - SequenceService initialized.
+2025-04-22 15:34:25,908 - INFO - SequenceController initialized.
+2025-04-22 15:34:25,909 - INFO - RSA key pair for secure history already exists.
+2025-04-22 15:34:25,954 - INFO - Secure history loaded from file.
+2025-04-22 15:34:25,954 - INFO - Starting FastAPI server on port 8080
+2025-04-22 15:34:47,115 - INFO - Processing input: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:34:47,116 - INFO - Creating sequence from input: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:34:47,116 - INFO - Processing sequence: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:34:47,128 - INFO - Encrypted sequence and processed result saved to SQLite history.
+2025-04-22 15:34:47,128 - INFO - Sequence processed and secure history updated.
+2025-04-22 15:34:53,435 - INFO - Processing input: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:34:53,435 - INFO - Creating sequence from input: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:34:53,435 - INFO - Processing sequence: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:34:53,445 - INFO - Encrypted sequence and processed result saved to SQLite history.
+2025-04-22 15:34:53,445 - INFO - Sequence processed and secure history updated.
+2025-04-22 15:45:20,625 - INFO - Secure history saved to file.
+2025-04-22 15:46:34,528 - INFO - Logger initialized: Logging to console and app.log
+2025-04-22 15:46:34,529 - INFO - SQLite history table ensured in history.db
+2025-04-22 15:46:34,529 - INFO - SequenceService initialized.
+2025-04-22 15:46:34,529 - INFO - SequenceController initialized.
+2025-04-22 15:46:34,531 - INFO - RSA key pair for secure history already exists.
+2025-04-22 15:46:34,575 - INFO - Secure history loaded from file.
+2025-04-22 15:46:34,575 - INFO - Starting FastAPI server on port 8080
+2025-04-22 15:46:42,970 - INFO - Processing input: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:46:42,971 - INFO - Creating sequence from input: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:46:42,971 - INFO - Processing sequence: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:46:42,971 - INFO - Starting conversion for input string: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:46:42,971 - INFO - Chain segment processed. Derived count: 27
+2025-04-22 15:46:42,971 - INFO - Count-based segment processed with sum: 40
+2025-04-22 15:46:42,971 - INFO - Processing direct count segment. Count: 1
+2025-04-22 15:46:42,971 - INFO - Direct count segment processed with sum: 1
+2025-04-22 15:46:42,971 - INFO - Conversion result: [40, 1]
+2025-04-22 15:46:42,997 - INFO - Sequence and processed result saved to SQLite history.
+2025-04-22 15:46:42,997 - INFO - Sequence processed and secure history updated.
+2025-04-22 15:46:44,500 - INFO - Processing input: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:46:44,500 - INFO - Creating sequence from input: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:46:44,500 - INFO - Processing sequence: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:46:44,500 - INFO - Starting conversion for input string: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:46:44,500 - INFO - Chain segment processed. Derived count: 27
+2025-04-22 15:46:44,500 - INFO - Count-based segment processed with sum: 40
+2025-04-22 15:46:44,500 - INFO - Processing direct count segment. Count: 1
+2025-04-22 15:46:44,500 - INFO - Direct count segment processed with sum: 1
+2025-04-22 15:46:44,500 - INFO - Conversion result: [40, 1]
+2025-04-22 15:46:44,527 - INFO - Sequence and processed result saved to SQLite history.
+2025-04-22 15:46:44,527 - INFO - Sequence processed and secure history updated.
+2025-04-22 15:47:22,088 - INFO - Processing input: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:47:22,089 - INFO - Creating sequence from input: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:47:22,089 - INFO - Processing sequence: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:47:22,089 - INFO - Starting conversion for input string: za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa
+2025-04-22 15:47:22,089 - INFO - Chain segment processed. Derived count: 27
+2025-04-22 15:47:22,089 - INFO - Count-based segment processed with sum: 40
+2025-04-22 15:47:22,089 - INFO - Processing direct count segment. Count: 1
+2025-04-22 15:47:22,089 - INFO - Direct count segment processed with sum: 1
+2025-04-22 15:47:22,089 - INFO - Conversion result: [40, 1]
+2025-04-22 15:47:22,095 - INFO - Sequence and processed result saved to SQLite history.
+2025-04-22 15:47:22,096 - INFO - Sequence processed and secure history updated.
+2025-04-22 15:48:47,431 - INFO - Secure history saved to file.
