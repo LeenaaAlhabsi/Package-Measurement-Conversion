@@ -3,7 +3,7 @@ import sys
 import json
 import logging
 import atexit
-import sqlite3  # (if still used elsewhere)
+import sqlite3  
 from fastapi import FastAPI, Query
 from fastapi.responses import JSONResponse
 import uvicorn

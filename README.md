@@ -14,7 +14,7 @@ This API converts encoded measurement strings into a list of total inflow values
   Example: `/convert-measurements?input=abbcc` returns `[2, 6]`.
 
 - **History Endpoint:**  
-  GET `/history` returns a JSON array of stored input sequences.
+  GET `/history` returns a JSON array of stored input sequences and their processed outputs in plaintext.
 
 - **Custom Port Support:**  
   Run the application on a custom port by passing the port as a command-line argument. For example:
@@ -97,11 +97,19 @@ This API converts encoded measurement strings into a list of total inflow values
   ```
   GET http://localhost:8080/history
   ```
-  
+
   **Expected Response:**
   ```json
   {
-      "history": ["za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa", ...]
+      "history": [
+          {
+              "id": 1,
+              "sequence": "za_a_a_a_a_a_a_a_a_a_a_a_a_azaaa",
+              "processed": [40, 1],
+              "timestamp": "2025-04-23 08:27:32"
+          },
+          ...
+      ]
   }
   ```
 
