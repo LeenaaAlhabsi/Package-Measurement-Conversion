@@ -6,6 +6,7 @@ import atexit
 import sqlite3  
 from fastapi import FastAPI, Query
 from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
 from cryptography.hazmat.primitives import serialization, hashes
@@ -290,6 +291,13 @@ class SequenceController:
 
 # ---------------- FastAPI Setup ----------------
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Or specify ["http://127.0.0.1:5500"] for more security
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 controller = SequenceController()
 
 @app.get("/convert-measurements")
