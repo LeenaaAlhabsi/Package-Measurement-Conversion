@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Package Measurement Conversion</title>
+    <link rel="stylesheet" href="convert.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Package Measurement Conversion API</h1>
+        <div class="convert-section">
+            <input type="text" id="inputString" placeholder="Enter measurement string..." autocomplete="off">
+            <button id="convert">Convert</button>
+            <button id="clearResult" type="button">Clear</button>
+            <p id="result"></p>
+        </div>
+        <div class="history-section">
+            <h2>Conversion History</h2>
+            <button id="history">Get History</button>
+            <button id="clearHistory" type="button">Clear History</button>
+            <ul id="historyList"></ul>
+        </div>
+    </div>
+    <script src="convert.js"></script>
+</body>
+</html>
